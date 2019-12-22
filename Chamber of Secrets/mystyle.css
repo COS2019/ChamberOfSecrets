@@ -1,0 +1,68 @@
+#img{
+	padding-top: 20px;
+	padding-bottom: 40px;
+	float: left;
+	width: 100%;
+}
+
+#intro{
+	text-align: center;
+	padding: 200px 40px;
+	font-family: 'Mountains of Christmas', cursive;
+	font-size: 32px;
+}
+
+
+.chapter p{
+	    font-family: 'Damian', cursive;
+		border: 1px solid #a6a6a6;
+		font-size: 20px;
+		padding: 20px 20px;
+		border-radius: 50px 0px;
+		border-width: 3px;
+		height: 300px;
+
+}
+
+.chapter{
+	float: left;
+	text-align: center;
+	width: 50%;
+    font-family: 'ABeeZee', sans-serif;
+	padding-top: 50px;
+	margin-bottom: 50px;
+	
+}
+
+h1{
+    font-family: 'Carter One', cursive;
+}
+button{
+	font-size: 25px;
+}
+
+a:link{
+	text-decoration: none;
+}
+
+a:visited {
+  color: black;
+}
+
+/* mouse over link */
+a:hover {
+  color: black;
+}
+
+/* selected link */
+a:active {
+  color: black;
+}
+img{
+	width: 60%;
+	padding: 0 20%;
+	border: 1px solid back;
+	float: left;
+	padding: auto;
+
+}
